@@ -1,5 +1,4 @@
 # Ignore data, logs and folders
-**/data/
 **/logs/
 **/src/models/trained_models/
 **/check_images
